@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregoryholl
 - 👀 I’m interested in coding, psychology, philosophy, social sciences, technology
-- 🌱 I’m currently learning R and Python programming languages
+- 🌱 I’m currently learning R, JavaScript, and Python programming language as well as HTML and CSS.
 - 💞️ I’m looking to collaborate on any coding projects
 - 📫 How to reach me ... gregoryhollenbeck@yahoo.com
 
